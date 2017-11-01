@@ -18,7 +18,7 @@ $ bq ls
 
 
 #BQ load
-$ bq load --project_id=mimetic-slate-179915   \
+$ bq load --project_id=mimetic-slate   \
     --source_format=NEWLINE_DELIMITED_JSON --max_bad_records 10 \
     BQ_Dataset.Restaurant ./restaurant.json  /restaurantSchema.json
 #https://cloud.google.com/bigquery/bq-command-line-tool#creatingtablefromfile
