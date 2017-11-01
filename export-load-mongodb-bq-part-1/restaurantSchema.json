@@ -1,0 +1,32 @@
+[
+    {
+        "name": "name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "URL",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "address",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "outcode",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "postcode",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "type_of_food",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
