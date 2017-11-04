@@ -1,6 +1,6 @@
 
 #### Patch and Update Table - BigQuery Part-III
-
+[https://sunnykrgupta.github.io/patch-and-update-table-bigquery-part-iii.html](https://sunnykrgupta.github.io/patch-and-update-table-bigquery-part-iii.html)
 
 
 #### Updating a table's schema definition
